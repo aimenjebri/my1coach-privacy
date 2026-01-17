@@ -117,7 +117,7 @@ We encourage you to review this Privacy Policy periodically for any changes.
 
 If you have any questions or concerns about this Privacy Policy or our practices, please contact us:
 
-**Email**: support@my1coach.app  
+**Email**: aymen.jebri@outlook.com  
 **Instagram**: @my1coach  
 **TikTok**: @my1coach
 
