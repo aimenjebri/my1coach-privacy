@@ -1,135 +1,212 @@
-# My1Coach - Privacy Policy
+# Privacy Policy
 
-**Last updated: January 14, 2026**
-
----
+**Last Updated:** [Insert Date]
 
 ## Introduction
 
-My1Coach ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
+[Your App Name] ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application/software (the "App").
 
-By using My1Coach, you agree to the collection and use of information in accordance with this policy.
-
----
+Please read this Privacy Policy carefully. By using the App, you agree to the collection and use of information in accordance with this policy.
 
 ## Information We Collect
 
-My1Coach stores all your data **locally on your device**. We do **NOT** collect, transmit, or store your personal information on external servers.
+### Information You Provide
 
-The following data is stored locally on your device:
+We may collect the following information that you voluntarily provide:
 
-- Habit tracking data (habit names, icons, completion status, streaks)
-- Financial tracking data (income sources, expense categories, amounts)
-- User preferences (name, avatar, app settings)
-- App usage data for functionality purposes only
+- **Account Information:** [e.g., name, email address, username]
+- **Profile Information:** [e.g., profile picture, bio, preferences]
+- **User Content:** [e.g., photos, videos, messages, posts you create]
+- **Communication Data:** Information you provide when contacting customer support
 
-**All this data remains on your device and is never sent to us or any third parties.**
+### Information Collected Automatically
 
----
+When you use our App, we may automatically collect:
 
-## How We Store Your Data
+- **Device Information:** Device type, operating system version, unique device identifiers
+- **Usage Data:** Features you use, time spent in the App, interactions with content
+- **Log Data:** IP address, crash logs, error reports
+- **Location Data:** [If applicable] Approximate or precise location based on GPS, Wi-Fi, or cellular data
 
-Your data is stored using Apple's UserDefaults and local storage on your device. This means:
+### Information from Third Parties
 
-- Your data never leaves your device
-- We have no access to your personal information
-- Your data is protected by your device's security features
-- If you delete the app, all data is permanently removed
+We may receive information from:
 
-We do not use cloud storage, external databases, or any form of data synchronization at this time.
+- **Social Media:** If you connect your social media accounts
+- **Analytics Services:** Aggregated usage statistics
+- **Payment Providers:** Transaction information (we do not store credit card details)
 
----
+## How We Use Your Information
 
-## How We Use Your Data
+We use the collected information for:
 
-The data you enter into My1Coach is used solely to provide you with the app's features:
+- **Providing Services:** Operating and maintaining the App's functionality
+- **Improving the App:** Understanding usage patterns and enhancing user experience
+- **Communication:** Sending updates, security alerts, and support messages
+- **Personalization:** Customizing content and recommendations
+- **Analytics:** Understanding App performance and user behavior
+- **Security:** Detecting and preventing fraud, abuse, and security issues
+- **Legal Compliance:** Complying with legal obligations and enforcing our terms
 
-- Track your daily habits and calculate streaks
-- Monitor your income and expenses
-- Display your progress and statistics
-- Personalize your experience with custom avatars and names
+## Data Storage and Security
 
-We do not analyze, sell, or share your data with anyone.
+### Data Storage
 
----
+- Your data is stored on secure servers [in the United States/European Union/specify region]
+- [If using iCloud/CloudKit] Some data may be stored in your personal iCloud account
+- [If local only] All data is stored locally on your device and never transmitted to our servers
 
-## Third-Party Services
+### Security Measures
 
-My1Coach does not currently use any third-party services, analytics, or advertising platforms.
+We implement industry-standard security measures to protect your information:
 
-We do not integrate with:
-- Analytics services
-- Advertising networks
-- Social media platforms
-- Cloud storage services
-- Payment processors
+- Encryption in transit (TLS/SSL)
+- Encryption at rest [if applicable]
+- Regular security assessments
+- Access controls and authentication
 
-If we add third-party services in future updates, we will update this policy and notify you.
+However, no method of transmission or storage is 100% secure. While we strive to protect your data, we cannot guarantee absolute security.
 
----
+## Data Sharing and Disclosure
 
-## Data Security
+We do not sell your personal information. We may share your information only in the following circumstances:
 
-We take the security of your data seriously:
+### With Your Consent
 
-- All data is stored locally using Apple's secure storage mechanisms
-- We follow iOS security best practices
-- Your data is protected by your device's passcode/biometric security
-- We do not transmit your data over the internet
+We may share information when you explicitly authorize us to do so.
 
-However, please remember that no method of electronic storage is 100% secure, and your device's security is your responsibility.
+### Service Providers
 
----
+We may share data with third-party service providers who perform services on our behalf:
+
+- [e.g., Cloud hosting providers (AWS, Google Cloud, Azure)]
+- [e.g., Analytics services (Apple Analytics, Firebase Analytics)]
+- [e.g., Customer support tools]
+- [e.g., Payment processors (Apple Pay, Stripe)]
+
+These providers are contractually obligated to protect your data and use it only for specified purposes.
+
+### Legal Requirements
+
+We may disclose information if required by law or in response to:
+
+- Legal processes (subpoenas, court orders)
+- Government or regulatory requests
+- Protection of our rights, property, or safety
+- Prevention of fraud or security issues
+
+### Business Transfers
+
+If we are involved in a merger, acquisition, or sale of assets, your information may be transferred as part of that transaction.
+
+## Your Rights and Choices
+
+### Access and Portability
+
+You have the right to:
+
+- Access the personal information we hold about you
+- Request a copy of your data in a portable format
+
+### Correction and Deletion
+
+You can:
+
+- Update or correct your information through the App settings
+- Request deletion of your account and associated data
+
+### Opt-Out Options
+
+You may opt out of:
+
+- Marketing communications (unsubscribe links provided)
+- Location tracking (device settings)
+- Analytics tracking [if option provided]
+
+### Do Not Track
+
+[Our App does not respond to Do Not Track signals / Our App respects Do Not Track signals]
 
 ## Children's Privacy
 
-My1Coach is suitable for users of all ages. Since we don't collect any personal information, there are no specific concerns regarding children's privacy.
+Our App is not intended for children under [13/16] years of age. We do not knowingly collect personal information from children. If you believe we have collected information from a child, please contact us immediately so we can delete it.
 
-We do not knowingly collect personal information from anyone. All data entered is stored locally on the device.
+## Third-Party Links and Services
 
----
+Our App may contain links to third-party websites or integrate with third-party services. We are not responsible for the privacy practices of these third parties. We encourage you to review their privacy policies.
 
-## Your Rights
+### Third-Party Services We Use
 
-You have complete control over your data:
+[List any third-party SDKs or services, such as:]
+- Apple Services (iCloud, Sign in with Apple, StoreKit)
+- [Social media platforms if integrated]
+- [Analytics services]
+- [Advertising networks if applicable]
 
-- **Access**: All your data is accessible within the app
-- **Modify**: You can edit or delete any information at any time
-- **Export**: You can view all your data within the app
-- **Delete**: Uninstalling the app removes all your data permanently
+## California Privacy Rights
 
-Since all data is stored locally, you don't need to contact us to exercise these rights.
+If you are a California resident, you have additional rights under the California Consumer Privacy Act (CCPA):
 
----
+- Right to know what personal information is collected
+- Right to know if personal information is sold or disclosed
+- Right to opt-out of the sale of personal information
+- Right to deletion of personal information
+- Right to non-discrimination for exercising your rights
+
+We do not sell personal information as defined by the CCPA.
+
+## European Privacy Rights (GDPR)
+
+If you are located in the European Economic Area (EEA) or United Kingdom, you have rights under the General Data Protection Regulation (GDPR):
+
+- **Legal Basis:** We process data based on consent, contract performance, legitimate interests, or legal obligations
+- **Data Retention:** We retain data only as long as necessary for the purposes described
+- **Cross-Border Transfers:** Data may be transferred outside the EEA with appropriate safeguards
+- **Rights:** Access, rectification, erasure, restriction, portability, and objection
+- **Complaints:** You may lodge a complaint with your local data protection authority
+
+## Data Retention
+
+We retain your information for as long as:
+
+- Your account is active
+- Necessary to provide services
+- Required by law or for legitimate business purposes
+
+When you delete your account, we will delete or anonymize your data within [30/60/90 days], except where retention is required by law.
 
 ## Changes to This Privacy Policy
 
-We may update our Privacy Policy from time to time. We will notify you of any changes by:
+We may update this Privacy Policy from time to time. We will notify you of significant changes by:
 
-- Updating the "Last updated" date at the top of this policy
-- Displaying a notice in the app when significant changes occur
+- Posting the new Privacy Policy in the App
+- Updating the "Last Updated" date
+- [Sending an email notification if you have provided an email address]
 
-We encourage you to review this Privacy Policy periodically for any changes.
-
----
+Your continued use of the App after changes constitutes acceptance of the updated policy.
 
 ## Contact Us
 
-If you have any questions or concerns about this Privacy Policy or our practices, please contact us:
+If you have questions, concerns, or requests regarding this Privacy Policy or your personal information, please contact us:
 
-**Email**: aymen.jebri@outlook.com  
-**Instagram**: @my1coach  
-**TikTok**: @my1coach
-
-We will respond to your inquiries as soon as possible.
+**Email:** [your-email@example.com]  
+**Address:** [Your Physical Address]  
+**Website:** [Your Website URL]  
 
 ---
 
-## Consent
+## Quick Summary (Plain Language)
 
-By using My1Coach, you acknowledge that you have read and understood this Privacy Policy and agree to its terms.
+**What we collect:** [Brief summary]
+
+**Why we collect it:** [Brief summary]
+
+**Who we share it with:** [Brief summary]
+
+**Your choices:** [Brief summary]
+
+**How to contact us:** [Contact information]
 
 ---
 
-**My1Coach**  
-© 2026 All rights reserved
+*This privacy policy was last updated on [Insert Date].*
